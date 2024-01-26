@@ -1,0 +1,15 @@
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\bin\Debug\net7.0\Week2Homework.exe
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\bin\Debug\net7.0\Week2Homework.deps.json
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\bin\Debug\net7.0\Week2Homework.runtimeconfig.json
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\bin\Debug\net7.0\Week2Homework.dll
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\bin\Debug\net7.0\Week2Homework.pdb
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.csproj.AssemblyReference.cache
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.AssemblyInfoInputs.cache
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.AssemblyInfo.cs
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.csproj.CoreCompileInputs.cache
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.dll
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\refint\Week2Homework.dll
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.pdb
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\Week2Homework.genruntimeconfig.cache
+C:\Users\FA707RE\OneDrive\Desktop\Week2Homework\Week2Homework\Week2Homework\obj\Debug\net7.0\ref\Week2Homework.dll
